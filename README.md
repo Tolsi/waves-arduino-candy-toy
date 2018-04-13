@@ -16,3 +16,7 @@ This project uses Waves Node API (public ones) to monitor transactions and make 
 
 ### Development
 Built with Arduino IDE 1.8.1 with ESP8266WiFi 1.0.0, ArduinoJson 5.8.4 and AccelStepper 1.56.2.
+
+
+### Details
+Full description, photos and manual how to assemble and create same project is [here](https://medium.com/@ikardanov/blockchain-iot-waves-bf732e5f60df)
